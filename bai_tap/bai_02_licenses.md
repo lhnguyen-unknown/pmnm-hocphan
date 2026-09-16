@@ -78,7 +78,7 @@
 | urllib3                | 2.6.2       | MIT                                               |
 | uvicorn                | 0.40.0      | BSD-3-Clause                                      |
 ## Phân tích nghĩa vụ tuân thủ
-* **Kiểm tra nhóm Copyleft mạnh:** Danh sách trên chủ yếu chứa các gói có giấy phép Dễ dãi (Permissive) như MIT, BSD, Apache-2.0, PSF. Không xuất hiện gói thuộc nhóm Copyleft mạnh (GNU GPL).
-* **Nghĩa vụ phát sinh nếu đóng mã thương mại:**
-  * Các gói MIT / BSD / Apache 2.0 cho phép đóng mã nguồn thương mại, chỉ cần giữ lại thông báo bản quyền (Copyright Notice) và nội dung giấy phép gốc trong phần thông tin phần mềm.
-  * Nếu xuất hiện gói GPL (Copyleft mạnh), dự án bắt buộc phải mở toàn bộ mã nguồn. Do đó cần loại bỏ hoặc thay thế gói GPL bằng thư viện khác có giấy phép dễ dãi hơn.
+Kiểm tra nhóm Copyleft mạnh:** Danh sách trên chủ yếu chứa các gói có giấy phép Dễ dãi (Permissive) như MIT, BSD, Apache-2.0, PSF. Không xuất hiện gói thuộc nhóm Copyleft mạnh (GNU GPL).
+Nghĩa vụ phát sinh nếu đóng mã thương mại:**
+Các gói MIT / BSD / Apache 2.0 cho phép đóng mã nguồn thương mại, chỉ cần giữ lại thông báo bản quyền (Copyright Notice) và nội dung giấy phép gốc trong phần thông tin phần mềm.
+Nếu xuất hiện gói GPL (Copyleft mạnh), dự án bắt buộc phải mở toàn bộ mã nguồn. Do đó cần loại bỏ hoặc thay thế gói GPL bằng thư viện khác có giấy phép dễ dãi hơn.
